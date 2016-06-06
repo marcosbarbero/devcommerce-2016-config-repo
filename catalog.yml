@@ -1,4 +1,4 @@
 logging.level:
-  ROOT: 'TRACE'
+  com.netflix.discovery: 'TRACE'
 
 server.port: 8000
