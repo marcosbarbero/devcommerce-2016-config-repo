@@ -1,4 +1,4 @@
 logging.level:
-  com.netflix.discovery: 'TRACE'
+  com.netflix.discovery: 'OFF'
 
 server.port: 8000
